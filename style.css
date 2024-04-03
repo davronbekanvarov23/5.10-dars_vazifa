@@ -49,7 +49,7 @@ body {
     }
     button {
       font-family: "Roboto", "sans-serif";
-border: none;
+      border: none;
       background: blue;
       color: #f1f1f1;
       padding: 2px 24px;
@@ -72,4 +72,3 @@ border: none;
   flex-direction: column;
   gap: 8px;
 }
-
